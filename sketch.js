@@ -1,10 +1,10 @@
 
 let clrs = [
-'purple', //top 0
-'gray', //middle top 1
-'black', //middle strip 2
-'yellow', //middle bottom 3
-'green' //bottom 4
+'black', //top 0
+'yellow', //middle top 1
+'purple', //middle strip 2
+'green', //middle bottom 3
+'gray' //bottom 4
 ]
 
 
